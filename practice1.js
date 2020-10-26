@@ -1,3 +1,4 @@
+
 // How to make object in js
 let obj1 = {
     // fields
